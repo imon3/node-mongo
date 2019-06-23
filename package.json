@@ -1,0 +1,23 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Node-Mongo-App",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imon3/node-mongo.git"
+  },
+  "author": "Imon Ovbude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imon3/node-mongo/issues"
+  },
+  "homepage": "https://github.com/imon3/node-mongo#readme"
+}
